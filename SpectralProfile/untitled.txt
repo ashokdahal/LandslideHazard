@@ -1,0 +1,2 @@
+    nulldel4=null4.max()!=null4.max()
+    qunt4Flt=qunt4Flt[:,nulldel4]
